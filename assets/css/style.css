@@ -159,6 +159,14 @@
     class carousel
 ***************************/
 
+
+.carousel-caption{
+    top: 15%;
+    left: 55%;
+    right: 10%;
+    bottom: 15%;
+}
+
 /***************************
     class main content
 ****************************/
