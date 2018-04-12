@@ -75,6 +75,10 @@
     background-color: #28d;
 }
 
+.opacity-4{
+    opacity: 0.4;
+}
+
 /*********************
     class btn white
 **********************/
@@ -159,7 +163,6 @@
     class carousel
 ***************************/
 
-
 .carousel-caption{
     top: 15%;
     left: 55%;
@@ -167,6 +170,9 @@
     bottom: 15%;
 }
 
+#cssSelector img{
+    width: 25%;
+}
 /***************************
     class main content
 ****************************/
@@ -210,6 +216,10 @@
 
 .card{
     margin-top: 2vw;
+}
+
+@media only screen and (max-width: 576px) {
+
 }
 /**********************
     class footer
